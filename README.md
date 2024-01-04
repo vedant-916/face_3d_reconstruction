@@ -33,12 +33,13 @@ cd face_3d_reconstruction
 
    `python demo_OWN.py -i <inputDir> -o <outputDir> --isDlib True  `
 
-Example output
+Example:
 
 <p align='center'>  
   <img src='https://github.com/vedant-916/face_3d_reconstruction/blob/main/CINNAMON_frame56.png' width='350'/>
   <img src='https://github.com/vedant-916/face_3d_reconstruction/blob/main/ima3.png' width='350'/>
 </p>
 
+SOURCE IMAGE  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3D RECONSTRUCTION 
 
 
