@@ -36,9 +36,8 @@ cd face_3d_reconstruction
 Example output
 
 <p align='center'>  
-  <img src='https://github.com/vedant-916/face_3d_reconstruction/blob/main/CINNAMON_frame56.png' width='250'/>
-  <img src='https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/TARGET.png' width='250'/>
-  <img src='https://github.com/vedant-916/TEST/blob/main/CUSTOM_pix2pixHD/SYNTHESIZED.png' width='250'/>
+  <img src='https://github.com/vedant-916/face_3d_reconstruction/blob/main/CINNAMON_frame56.png' width='350'/>
+  <img src='https://github.com/vedant-916/face_3d_reconstruction/blob/main/ima3.png' width='350'/>
 </p>
 
 
