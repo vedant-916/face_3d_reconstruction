@@ -22,8 +22,8 @@ GPU is highly recommended. The run time is ~0.01s with GPU(GeForce GTX 1080) and
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YadiraF/PRNet
-cd PRNet
+git clone https://github.com/vedant-916/face_3d_reconstruction.git
+cd face_3d_reconstruction
 ```
 
 2. Download the PRN trained model at [BaiduDrive](https://pan.baidu.com/s/10vuV7m00OHLcsihaC-Adsw) or [GoogleDrive](https://drive.google.com/file/d/1UoE-XuW1SDLUjZmJPkIZ1MLxvQFgmTFH/view?usp=sharing), and put it into `Data/net-data`
