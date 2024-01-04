@@ -30,5 +30,13 @@ cd face_3d_reconstruction
 
    `python demo_OWN.py -i <inputDir> -o <outputDir> --isDlib True  `
 
+Example output
+
+<p align='center'>  
+  <img src='https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/SRC.png' width='250'/>
+  <img src='https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/TARGET.png' width='250'/>
+  <img src='https://github.com/vedant-916/TEST/blob/main/CUSTOM_pix2pixHD/SYNTHESIZED.png' width='250'/>
+</p>
+
 
 
