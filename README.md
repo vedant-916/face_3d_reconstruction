@@ -2,7 +2,7 @@
 
 3D face reconstruction based on position map regression
 
-Given a face image , produces a 3d reconstruction of the face and saves it as a .obj file
+Given a face image , produces a 3d reconstruction of the face with facial landmarks and saves it as a .obj file
 
 ## Getting Started
 
