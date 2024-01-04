@@ -26,16 +26,9 @@ git clone https://github.com/vedant-916/face_3d_reconstruction.git
 cd face_3d_reconstruction
 ```
 
-2. Download the PRN trained model at [BaiduDrive](https://pan.baidu.com/s/10vuV7m00OHLcsihaC-Adsw) or [GoogleDrive](https://drive.google.com/file/d/1UoE-XuW1SDLUjZmJPkIZ1MLxvQFgmTFH/view?usp=sharing), and put it into `Data/net-data`
+2. Run with your own images
 
-3. Run the test code.(test AFLW2000 images)
+   `python demo_OWN.py -i <inputDir> -o <outputDir> --isDlib True  `
 
-   `python run_basics.py #Can run only with python and tensorflow`
-
-4. Run with your own images
-
-   `python demo.py -i <inputDir> -o <outputDir> --isDlib True  `
-
-   run `python demo.py --help` for more details.
 
 
